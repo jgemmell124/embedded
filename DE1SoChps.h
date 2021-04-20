@@ -72,9 +72,6 @@ class DE1SoChps {
          */ 
         int RegisterRead(unsigned int reg_offset);
 
-        // configure the sptimer0
-        void Timer0Setup();
-
 
 };
 #endif
